@@ -11,7 +11,7 @@ I built the game with Unity Hub, scripted with UnityEngine, explored how to appl
 
 
 <picture>
-  <img src="https://github.com/phoenixindev/Squid-s-A-Mazing-Rooms/blob/main/AMaze1.PNG" alt="screenshot-main" style="width:auto;">
+  <img src="https://github.com/jalexanderrein/Squid-s-A-Mazing-Rooms/blob/main/AMaze1.PNG" alt="screenshot-main" style="width:auto;">
 </picture>
 
 
@@ -31,21 +31,21 @@ I built the game with Unity Hub, scripted with UnityEngine, explored how to appl
 ## **_Screenshots_** 
 ### Overview
 <picture>
-    <img src="https://github.com/phoenixindev/Squid-s-A-Mazing-Rooms/blob/main/AMaze2.PNG" width="50%" alt="screenshot-main" style="width:auto;">
+    <img src="https://github.com/jalexanderrein/Squid-s-A-Mazing-Rooms/blob/main/AMaze2.PNG" width="50%" alt="screenshot-main" style="width:auto;">
 </picture>
 
-### Avator
+### Avator at starting point
 <picture>
-    <img src="https://github.com/phoenixindev/Squid-s-A-Mazing-Rooms/blob/main/AMaze3.PNG" width="50%" alt="screenshot-main" style="width:auto;">
+    <img src="https://github.com/jalexanderrein/Squid-s-A-Mazing-Rooms/blob/main/AMaze3.PNG" width="50%" alt="screenshot-main" style="width:auto;">
 </picture>
 
-### Camera 1
+### Camera 1 (first person view)
 <picture>
-    <img src="https://github.com/phoenixindev/Squid-s-A-Mazing-Rooms/blob/main/AMaze4.PNG" width="50%" alt="screenshot-main" style="width:auto;">
+    <img src="https://github.com/jalexanderrein/Squid-s-A-Mazing-Rooms/blob/main/AMaze4.PNG" width="50%" alt="screenshot-main" style="width:auto;">
 </picture>
 
-### Camera 2
+### Camera 2 (God’s perspective)
 <picture>
-    <img src="https://github.com/phoenixindev/Squid-s-A-Mazing-Rooms/blob/main/AMaze5.PNG" width="50%" alt="screenshot-main" style="width:auto;">
+    <img src="https://github.com/jalexanderrein/Squid-s-A-Mazing-Rooms/blob/main/AMaze5.PNG" width="50%" alt="screenshot-main" style="width:auto;">
 </picture>
 
